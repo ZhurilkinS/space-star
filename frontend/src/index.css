@@ -11,6 +11,13 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  width: 100vw;
+  height: 100vh;
+  background-image: url("/space_star_wallpaper_026.png");
+
+  background-repeat: no-repeat;
+  font-family: "Roboto", sans-serif;
 }
 
 a {
